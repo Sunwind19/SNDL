@@ -4,6 +4,8 @@ This is repository for SNDL, a biomimetic robot that is your unique companion fo
 ## Project Introduction
 <img width="648" height="510" alt="image" src="https://github.com/user-attachments/assets/42f25f23-4353-422d-8615-7f70c1faa318" />
 <img width="898" height="796" alt="image" src="https://github.com/user-attachments/assets/c017f482-18e5-4c8b-baf2-b75505830295" />
+<img width="1458" height="1444" alt="image" src="https://github.com/user-attachments/assets/ffc3354c-1f35-406b-8177-c2e75fe32fcf" />
+
 
 This is SNDL, a mountain waste collecting beetle-like 6-legged biomimetic robot companion, building a sustainable future through protecting nature closest to our daily life. 
 
@@ -25,7 +27,7 @@ The key parts here were
 You can check out the details in BOM (Bill of Materials for SNDL).csv file
 
 ## Key CAD file
-The most important design choice I made was to mimic Diabolical Ironclad beetle's exoskeleton into the robot's main frame, so that it can carry a load of waste at once and be perfect companion for your waste-collecting journey. 
+The most important design choice I made was to mimic Diabolical Ironclad beetle's exoskeleton into the robot's main frame, so that it can carry a load of waste at once and be perfect companion for your waste-collecting journey. Specifically, diabolical ironclad beetle can endure 4900x of its body weight because of its suture!
 
 ##Why?
 The precious mountains where I once shared precious memories are now covered with waste. Just like scenary in WALL-E. Why? Because we couldn't collect them again unlike when we spreaded them out. Here, I wanted to bring robotic system to foster climate action and prove its not too late. 
