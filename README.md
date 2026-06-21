@@ -14,7 +14,8 @@ SNDL revolutionize this reality through first-ever innovation inspired by insect
 By mimicking the Diabolical Ironclad Beetle and the Metallifer Stag Beetle, SNDL plan to restore one mountain ecosystem — one BIOME — proving we aren’t late to save this planet.
 
 ## Zine page
-<img width="658" height="938" alt="image" src="https://github.com/user-attachments/assets/a6a8d930-6009-432a-a504-8661245577b4" />
+<img width="652" height="936" alt="image" src="https://github.com/user-attachments/assets/cb69e9fc-8993-4f98-8f22-e5262ebff3be" />
+
 
 ## BOM
 The key parts here were
