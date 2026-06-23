@@ -25,7 +25,7 @@ The key parts here were
 -1 ESP Devkit V4
 -18 MG90S motors
 -20A DC-DC & 2A Dual Buck converter system
--15A & 3A Dual
+-15A & 3A Dual buck system
 You can check out the details in BOM (Bill of Materials for SNDL).csv file and get the materials, and follow the schematics.pdf file! Soldering is fine, but I recommend using wago connectors at the beginning since theres high chance motor might burn for beginners. 
 
 ## Key CAD file
