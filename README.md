@@ -1,5 +1,8 @@
 # SNDL
 This is repository for SNDL, a biomimetic robot that is your unique companion for your climate action. When you pick up, SNDL carries! 
+I created this project for two reason.
+1. 'Biomimetic robot' is the concept I have been researching for 3 years, and 'Mountain waste problem' is what i deeply resonate for especially because of my regional characteristic. By combining this two concept, i believe i could get one step closer to the future where technology solves environment's problem.
+2. This is project i created irl to qualify for <mark> hack club fallout (YSWS program in shenzhen)</mark>. I always wanted to meet builders from all over the world, and fallout was my first ysws event in hack club. By attending fallout, i got to be extremely interestd in hack club vision. 
 
 ## Project Introduction
 <img width="648" height="510" alt="image" src="https://github.com/user-attachments/assets/42f25f23-4353-422d-8615-7f70c1faa318" />
