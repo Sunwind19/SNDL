@@ -23,7 +23,7 @@ By mimicking the Diabolical Ironclad Beetle and the Metallifer Stag Beetle, SNDL
 
 ## Current status of the project & How I feel
 For now, SNDL is built in real life, and is capable of standing & controlling leg one by one. Currently, I am working on firmware where the SNDL will be walking by tripod gait soon. This was my first time controlling "18" motors all at once (MG90S) with use of inverse kinematics, along the fantastic combination of PCA9685 and ESP32. I am happy that the leg could be controlled one by one, but due to risk of voltage shortage extra power should be supplied on ESP in order for SNDL to succesfully work, which are being proceeded. 
-<img width="898" height="796" alt="image" src="https://github.com/user-attachments/assets/c017f482-18e5-4c8b-baf2-b75505830295" />
+<img width="648" height="510" alt="image" src="https://github.com/user-attachments/assets/42f25f23-4353-422d-8615-7f70c1faa318" />
 
 # The technical explanation & Guide
 
@@ -37,7 +37,7 @@ The key parts here were
 You can check out the details in BOM (Bill of Materials for SNDL).csv file and get the materials, and follow the schematics.pdf file! Soldering is fine, but I recommend using wago connectors at the beginning since theres high chance motor might burn for beginners. 
 
 ## Key CAD file
-<img width="648" height="510" alt="image" src="https://github.com/user-attachments/assets/42f25f23-4353-422d-8615-7f70c1faa318" />
+<img width="898" height="796" alt="image" src="https://github.com/user-attachments/assets/c017f482-18e5-4c8b-baf2-b75505830295" />
 The most important design choice I made was to mimic Diabolical Ironclad beetle's exoskeleton into the robot's main frame, so that it can carry a load of waste at once and be perfect companion for your waste-collecting journey. Specifically, diabolical ironclad beetle can endure 4900x of its body weight because of its suture! As shown in assembly body.f3z / .step file, this exoskeleton is covered by shell, where body-coxa bracket, bearing bracket, femur and tibia are attached. 
 
 ## Schematics
