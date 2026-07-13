@@ -26,6 +26,15 @@ For now, SNDL is built in real life, and is capable of standing & controlling le
 
 # The technical explanation & Guide
 
+## Build Guide
+1. See assembly body.f3z / .step and understand how each parts are attched to other
+2. Print body, and 2 Exoskeleton.step. Attach only 1 exoskeleton to the body using M3 screws and nut.
+3. Print 6 body-femur motor bracket and attach them to the body using M3 screw.
+4. Print 12 femur-tibia bearings (bearing.step) and attach each other by M3 screws.
+5. Print 6 femur and 6 tibia.
+6. Attach motors to the 18 motor bracket inside the printed part by M3 screw.
+7. Attach femur & tibia to bearings using M4 bearing and M2.5 screws. 
+
 ## BOM
 The key parts that are critical, and should be rigidly remain in the design even if you make some changes are: 
 -2 PCA boards
@@ -38,13 +47,11 @@ Furthermore, I used M3 & M2 screws and nuts to rigidly join parts, while using M
 ## Key CAD file
 <img width="898" height="796" alt="image" src="https://github.com/user-attachments/assets/c017f482-18e5-4c8b-baf2-b75505830295" />
 The most important design choice I made was to mimic Diabolical Ironclad beetle's exoskeleton into the robot's main frame, so that it can carry a load of waste at once and be perfect companion for your waste-collecting journey. Specifically, diabolical ironclad beetle can endure 4900x of its body weight because of its suture! As shown in assembly body.f3z / .step file, this exoskeleton is covered by shell, where body-coxa bracket, bearing bracket, femur and tibia are attached. 
+Furthermore, regarding the leg joint, I used three motor for each femur, tibia, body-femur joints together with M4 bearing. This was to create stable gait as SNDL will be walking on mountain at future. 
 
 ## Schematics
 <img width="1458" height="1444" alt="image" src="https://github.com/user-attachments/assets/62ab1243-b989-4798-a1d1-5065458d1f3b" />
 
 ## Firmware
 The firmware has inverse kinematics & tripod gait feature.
-You can connect your nintendo joycon or any other controller bluepad32 supports!
-
-## Why?
-The precious mountains where I once shared precious memories are now covered with waste. Just like scenary in WALL-E. Why? Because we couldn't collect them again unlike when we spreaded them out. Here, I wanted to bring robotic system to foster climate action and prove its not too late. 
+You can connect your nintendo joycon or any other controller bluepad32 supports! My advise would be to set zero points of each leg joints' servo motor before operating the code, to reduce any risks. 
