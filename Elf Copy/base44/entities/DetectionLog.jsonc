@@ -1,0 +1,78 @@
+{
+  "name": "DetectionLog",
+  "type": "object",
+  "properties": {
+    "image_url": {
+      "type": "string",
+      "description": "Public URL of the uploaded trash photo"
+    },
+    "latitude": {
+      "type": "number",
+      "description": "GPS latitude coordinate"
+    },
+    "longitude": {
+      "type": "number",
+      "description": "GPS longitude coordinate"
+    },
+    "status": {
+      "type": "string",
+      "enum": [
+        "Pending_Analysis",
+        "Analyzed",
+        "Cleaned"
+      ],
+      "default": "Pending_Analysis",
+      "description": "Current status of the detection"
+    },
+    "estimated_weight_kg": {
+      "type": "number",
+      "description": "AI-estimated weight in kilograms"
+    },
+    "ecosystem_units": {
+      "type": "number",
+      "description": "Calculated ecosystem impact units"
+    },
+    "raw_counts": {
+      "type": "string",
+      "description": "JSON string of raw trash item counts from reporter API"
+    },
+    "seeds_potential": {
+      "type": "number",
+      "description": "Seeds the reporter can claim for this detection"
+    },
+    "course_type": {
+      "type": "string",
+      "enum": [
+        "mountain",
+        "forest",
+        "flat"
+      ],
+      "description": "Type of location where trash was found"
+    },
+    "hazard_score": {
+      "type": "number",
+      "description": "AI-generated hazard score (0-10) used for marker color coding"
+    },
+    "f": {
+      "type": "number",
+      "description": "Number of plants saved (from AI analysis)",
+      "default": 0
+    },
+    "ba": {
+      "type": "number",
+      "description": "Number of big animals saved (from AI analysis)",
+      "default": 0
+    },
+    "sa": {
+      "type": "number",
+      "description": "Number of small animals saved (from AI analysis)",
+      "default": 0
+    }
+  },
+  "required": [
+    "image_url",
+    "latitude",
+    "longitude",
+    "status"
+  ]
+}

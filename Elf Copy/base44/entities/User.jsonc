@@ -1,0 +1,26 @@
+{
+  "name": "User",
+  "type": "object",
+  "properties": {
+    "role": {
+      "type": "string",
+      "enum": [
+        "admin",
+        "user"
+      ],
+      "default": "user"
+    },
+    "city": {
+      "type": "string",
+      "description": "City the user is based in"
+    },
+    "country": {
+      "type": "string",
+      "description": "Country the user is based in"
+    }
+  },
+  "required": [
+    "city",
+    "country"
+  ]
+}

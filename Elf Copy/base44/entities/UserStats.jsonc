@@ -1,0 +1,43 @@
+{
+  "name": "UserStats",
+  "type": "object",
+  "properties": {
+    "user_email": {
+      "type": "string",
+      "description": "Email of the user"
+    },
+    "seeds": {
+      "type": "integer",
+      "description": "Total seeds earned",
+      "default": 0
+    },
+    "biome_level": {
+      "type": "integer",
+      "description": "Current biome level (0-27)",
+      "default": 0
+    },
+    "total_plants": {
+      "type": "integer",
+      "description": "Cumulative plants saved",
+      "default": 0
+    },
+    "total_small_animals": {
+      "type": "integer",
+      "description": "Cumulative small animals saved",
+      "default": 0
+    },
+    "total_big_animals": {
+      "type": "integer",
+      "description": "Cumulative big animals saved",
+      "default": 0
+    },
+    "saved": {
+      "type": "integer",
+      "description": "Total lives saved (plants + small animals + big animals) \u2014 primary ranking score",
+      "default": 0
+    }
+  },
+  "required": [
+    "user_email"
+  ]
+}

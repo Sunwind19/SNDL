@@ -1,0 +1,28 @@
+{
+  "name": "ActivityRecord",
+  "type": "object",
+  "properties": {
+    "user_email": {
+      "type": "string",
+      "description": "Email of the user who completed the cleanup"
+    },
+    "saved_plants": {
+      "type": "number",
+      "description": "Number of plants saved during the cleanup session",
+      "default": 0
+    },
+    "saved_animals": {
+      "type": "number",
+      "description": "Number of animals saved during the cleanup session",
+      "default": 0
+    },
+    "waste_amount": {
+      "type": "number",
+      "description": "Amount of waste collected in kg",
+      "default": 0
+    }
+  },
+  "required": [
+    "user_email"
+  ]
+}
