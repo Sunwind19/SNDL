@@ -7,13 +7,8 @@ I created this project for two reason.
 <img width="586" height="775" alt="Screenshot 2026-07-14 at 12 35 10 AM" src="https://github.com/user-attachments/assets/c35cd987-f7a5-40b7-a031-0258b60d22db" />
 <img width="596" height="771" alt="Screenshot 2026-07-14 at 12 36 18 AM" src="https://github.com/user-attachments/assets/ae30c4b3-f24c-4ec3-89b9-4b78b17a2c22" />
 
-## Zine page
-<img width="1410" height="2000" alt="Approval Hours Deadline June 27" src="https://github.com/user-attachments/assets/4745271f-4311-4142-b6b6-27ddd89ec3c2" />
 
 ## About this Project
-<img width="648" height="510" alt="image" src="https://github.com/user-attachments/assets/42f25f23-4353-422d-8615-7f70c1faa318" />
-<img width="898" height="796" alt="image" src="https://github.com/user-attachments/assets/c017f482-18e5-4c8b-baf2-b75505830295" />
-<img width="1458" height="1444" alt="image" src="https://github.com/user-attachments/assets/62ab1243-b989-4798-a1d1-5065458d1f3b" />
 
 This is SNDL, a mountain waste collecting beetle-like 6-legged biomimetic robot companion, building a sustainable future through protecting nature closest to our daily life. 
 
@@ -23,8 +18,12 @@ SNDL revolutionize this reality through first-ever innovation inspired by insect
 
 By mimicking the Diabolical Ironclad Beetle and the Metallifer Stag Beetle, SNDL plan to restore one mountain ecosystem — one BIOME — proving we aren’t late to save this planet.
 
+## Zine page
+<img width="1410" height="2000" alt="Approval Hours Deadline June 27" src="https://github.com/user-attachments/assets/4745271f-4311-4142-b6b6-27ddd89ec3c2" />
+
 ## Current status of the project & How I feel
 For now, SNDL is built in real life, and is capable of standing & controlling leg one by one. Currently, I am working on firmware where the SNDL will be walking by tripod gait soon. This was my first time controlling "18" motors all at once (MG90S) with use of inverse kinematics, along the fantastic combination of PCA9685 and ESP32. I am happy that the leg could be controlled one by one, but due to risk of voltage shortage extra power should be supplied on ESP in order for SNDL to succesfully work, which are being proceeded. 
+<img width="898" height="796" alt="image" src="https://github.com/user-attachments/assets/c017f482-18e5-4c8b-baf2-b75505830295" />
 
 # The technical explanation & Guide
 
@@ -38,7 +37,11 @@ The key parts here were
 You can check out the details in BOM (Bill of Materials for SNDL).csv file and get the materials, and follow the schematics.pdf file! Soldering is fine, but I recommend using wago connectors at the beginning since theres high chance motor might burn for beginners. 
 
 ## Key CAD file
+<img width="648" height="510" alt="image" src="https://github.com/user-attachments/assets/42f25f23-4353-422d-8615-7f70c1faa318" />
 The most important design choice I made was to mimic Diabolical Ironclad beetle's exoskeleton into the robot's main frame, so that it can carry a load of waste at once and be perfect companion for your waste-collecting journey. Specifically, diabolical ironclad beetle can endure 4900x of its body weight because of its suture! As shown in assembly body.f3z / .step file, this exoskeleton is covered by shell, where body-coxa bracket, bearing bracket, femur and tibia are attached. 
+
+## Schematics
+<img width="1458" height="1444" alt="image" src="https://github.com/user-attachments/assets/62ab1243-b989-4798-a1d1-5065458d1f3b" />
 
 ## Firmware
 The firmware has inverse kinematics & tripod gait feature.
