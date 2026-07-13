@@ -3,9 +3,8 @@
 This is repository for SNDL, a biomimetic robot that is your unique companion for your climate action :  When you pick up, SNDL carries! 
 I created this project for two reason.
 1. 'Biomimetic robot' is the concept I have been researching for 3 years, and 'Mountain waste problem' is what i deeply resonate for especially because of my regional characteristic. By combining this two concept, i believe i could get one step closer to the future where technology solves environment's problem.
-2. This is project i created irl to qualify for <mark> hack club fallout (YSWS program in shenzhen)</mark>. I always wanted to meet builders from all over the world, and fallout was my first ysws event in hack club. Despite it was my very first experience, by attending fallout, i got to be extremely interestd in hack club vision. Especially, the fact that how hackathons from hackclub gathered many passionate teenagers in diverse regions who "purely loves" building / programming / designing, and provides the chance to collaborate with all those people got me really into fallout. Here are some photos of me attending fallout:) 
-<img width="586" height="775" alt="Screenshot 2026-07-14 at 12 35 10 AM" src="https://github.com/user-attachments/assets/c35cd987-f7a5-40b7-a031-0258b60d22db" />
-<img width="596" height="771" alt="Screenshot 2026-07-14 at 12 36 18 AM" src="https://github.com/user-attachments/assets/ae30c4b3-f24c-4ec3-89b9-4b78b17a2c22" />
+2. This is project i created irl to qualify for <mark> hack club fallout (YSWS program in shenzhen)</mark>. I always wanted to meet builders from all over the world, and fallout was my first ysws event in hack club. Despite it was my very first experience, by attending fallout, i got to be extremely interestd in hack club vision. Especially, the fact that how hackathons from hackclub gathered many passionate teenagers in diverse regions who "purely loves" building / programming / designing, and provides the chance to collaborate with all those people got me really into fallout. Here are some photos of me attending fallout:)
+ <img width="1014" height="654" alt="image" src="https://github.com/user-attachments/assets/5a30507b-cbc1-4ca0-b85b-e4acb80daa04" />
 
 
 ## About this Project
