@@ -51,7 +51,7 @@ Furthermore, regarding the leg joint, I used three motor for each femur, tibia, 
 
 ## Schematics
 <img width="1458" height="1444" alt="image" src="https://github.com/user-attachments/assets/62ab1243-b989-4798-a1d1-5065458d1f3b" />
-
+The key for this schematic is 20A DC-DC & 2A Dual Buck converter system, 2 PCA 9685 with ESP 32 for systemized motor control, 4700uF capacitor to reduce risk with 5A and 15A fuse, as well as 14.8V 4ps fof 18650 3.7V battery. 
 ## Firmware
 The firmware has inverse kinematics & tripod gait feature.
 You can connect your nintendo joycon or any other controller bluepad32 supports! My advise would be to set zero points of each leg joints' servo motor before operating the code, to reduce any risks. 
