@@ -27,13 +27,13 @@ For now, SNDL is built in real life, and is capable of standing & controlling le
 # The technical explanation & Guide
 
 ## BOM
-The key parts here were
+The key parts that are critical, and should be rigidly remain in the design even if you make some changes are: 
 -2 PCA boards
 -1 ESP Devkit V4
 -18 MG90S motors
 -20A DC-DC & 2A Dual Buck converter system
 -15A & 3A Dual buck system
-You can check out the details in BOM (Bill of Materials for SNDL).csv file and get the materials, and follow the schematics.pdf file! Soldering is fine, but I recommend using wago connectors at the beginning since theres high chance motor might burn for beginners. 
+Furthermore, I used M3 & M2 screws and nuts to rigidly join parts, while using M4 bearings for the leg joints. You can check out the details in BOM (Bill of Materials for SNDL).csv file and get the materials as the links are attached, and follow the schematics.pdf file! Soldering is fine, but I recommend using wago connectors at the beginning since theres high chance motor might burn for beginners. 
 
 ## Key CAD file
 <img width="898" height="796" alt="image" src="https://github.com/user-attachments/assets/c017f482-18e5-4c8b-baf2-b75505830295" />
