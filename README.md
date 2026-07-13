@@ -3,19 +3,17 @@
 This is repository for SNDL, a biomimetic robot that is your unique companion for your climate action :  When you pick up, SNDL carries! 
 I created this project for two reason.
 1. 'Biomimetic robot' is the concept I have been researching for 3 years, and 'Mountain waste problem' is what i deeply resonate for especially because of my regional characteristic. By combining this two concept, i believe i could get one step closer to the future where technology solves environment's problem.
-2. This is project i created irl to qualify for <mark> hack club fallout (YSWS program in shenzhen)</mark>. I always wanted to meet builders from all over the world, and fallout was my first ysws event in hack club. By attending fallout, i got to be extremely interestd in hack club vision. Here are some photos of me attending fallout: 
+2. This is project i created irl to qualify for <mark> hack club fallout (YSWS program in shenzhen)</mark>. I always wanted to meet builders from all over the world, and fallout was my first ysws event in hack club. Despite it was my very first experience, by attending fallout, i got to be extremely interestd in hack club vision. Especially, the fact that how hackathons from hackclub gathered many passionate teenagers in diverse regions who "purely loves" building / programming / designing, and provides the chance to collaborate with all those people got me really into fallout. Here are some photos of me attending fallout:) 
 <img width="586" height="775" alt="Screenshot 2026-07-14 at 12 35 10 AM" src="https://github.com/user-attachments/assets/c35cd987-f7a5-40b7-a031-0258b60d22db" />
 <img width="596" height="771" alt="Screenshot 2026-07-14 at 12 36 18 AM" src="https://github.com/user-attachments/assets/ae30c4b3-f24c-4ec3-89b9-4b78b17a2c22" />
 
 ## Zine page
-<img width="382" height="545" alt="Screenshot 2026-07-14 at 12 37 03 AM" src="https://github.com/user-attachments/assets/b4595410-7e1d-4a1e-8c2e-cab064155396" />
+<img width="1410" height="2000" alt="Approval Hours Deadline June 27" src="https://github.com/user-attachments/assets/4745271f-4311-4142-b6b6-27ddd89ec3c2" />
 
-
-## Project Introduction
+## About this Project
 <img width="648" height="510" alt="image" src="https://github.com/user-attachments/assets/42f25f23-4353-422d-8615-7f70c1faa318" />
 <img width="898" height="796" alt="image" src="https://github.com/user-attachments/assets/c017f482-18e5-4c8b-baf2-b75505830295" />
 <img width="1458" height="1444" alt="image" src="https://github.com/user-attachments/assets/62ab1243-b989-4798-a1d1-5065458d1f3b" />
-
 
 This is SNDL, a mountain waste collecting beetle-like 6-legged biomimetic robot companion, building a sustainable future through protecting nature closest to our daily life. 
 
@@ -25,9 +23,10 @@ SNDL revolutionize this reality through first-ever innovation inspired by insect
 
 By mimicking the Diabolical Ironclad Beetle and the Metallifer Stag Beetle, SNDL plan to restore one mountain ecosystem — one BIOME — proving we aren’t late to save this planet.
 
-## Zine page
-<img width="652" height="936" alt="image" src="https://github.com/user-attachments/assets/cb69e9fc-8993-4f98-8f22-e5262ebff3be" />
+## Current status of the project & How I feel
+For now, SNDL is built in real life, and is capable of standing & controlling leg one by one. Currently, I am working on firmware where the SNDL will be walking by tripod gait soon. This was my first time controlling "18" motors all at once (MG90S) with use of inverse kinematics, along the fantastic combination of PCA9685 and ESP32. I am happy that the leg could be controlled one by one, but due to risk of voltage shortage extra power should be supplied on ESP in order for SNDL to succesfully work, which are being proceeded. 
 
+# The technical explanation & Guide
 
 ## BOM
 The key parts here were
