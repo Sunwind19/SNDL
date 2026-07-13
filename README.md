@@ -24,6 +24,7 @@ By mimicking the Diabolical Ironclad Beetle and the Metallifer Stag Beetle, SNDL
 ELF is supporting application for your journey to collect waste with SNDL. By using it, you can report the waste, where the vision AI will analyze the waste and automatically calculate your impact to nature regarding saved plants and animals. Specifically, I created impact constant for each type of waste through emailing 90 national parks in U.S & researching volunteering reports, and self-developed 
 Additionally, it has a waste navigation feature, where it will guide you to collect waste in most efficient way via generating route from reported waste spot. Finally, this app 'ELF' leads your journey of climate action with SNDL active and sustainable through virtual biome that gets cleaner and cleaner proportional to your climate activity. 
 <img width="731" height="397" alt="Screenshot 2026-07-14 at 1 17 51 AM" src="https://github.com/user-attachments/assets/08aa88d5-6015-4747-842e-09ed2d4bc0c9" />
+
 Currently, I am building feature where ELF enables user to control SNDL and will continuosly update this project. 
 
 # The technical explanation & Guide for hardware robot SNDL
