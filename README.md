@@ -1,8 +1,15 @@
 # SNDL
-This is repository for SNDL, a biomimetic robot that is your unique companion for your climate action. When you pick up, SNDL carries! 
+## What is SNDL, and Why did I create this?
+This is repository for SNDL, a biomimetic robot that is your unique companion for your climate action :  When you pick up, SNDL carries! 
 I created this project for two reason.
 1. 'Biomimetic robot' is the concept I have been researching for 3 years, and 'Mountain waste problem' is what i deeply resonate for especially because of my regional characteristic. By combining this two concept, i believe i could get one step closer to the future where technology solves environment's problem.
-2. This is project i created irl to qualify for <mark> hack club fallout (YSWS program in shenzhen)</mark>. I always wanted to meet builders from all over the world, and fallout was my first ysws event in hack club. By attending fallout, i got to be extremely interestd in hack club vision. 
+2. This is project i created irl to qualify for <mark> hack club fallout (YSWS program in shenzhen)</mark>. I always wanted to meet builders from all over the world, and fallout was my first ysws event in hack club. By attending fallout, i got to be extremely interestd in hack club vision. Here are some photos of me attending fallout: 
+<img width="586" height="775" alt="Screenshot 2026-07-14 at 12 35 10 AM" src="https://github.com/user-attachments/assets/c35cd987-f7a5-40b7-a031-0258b60d22db" />
+<img width="596" height="771" alt="Screenshot 2026-07-14 at 12 36 18 AM" src="https://github.com/user-attachments/assets/ae30c4b3-f24c-4ec3-89b9-4b78b17a2c22" />
+
+## Zine page
+<img width="382" height="545" alt="Screenshot 2026-07-14 at 12 37 03 AM" src="https://github.com/user-attachments/assets/b4595410-7e1d-4a1e-8c2e-cab064155396" />
+
 
 ## Project Introduction
 <img width="648" height="510" alt="image" src="https://github.com/user-attachments/assets/42f25f23-4353-422d-8615-7f70c1faa318" />
