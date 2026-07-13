@@ -25,7 +25,7 @@ ELF is supporting application for your journey to collect waste with SNDL. By us
 Additionally, it has a waste navigation feature, where it will guide you to collect waste in most efficient way via generating route from reported waste spot. Finally, this app 'ELF' leads your journey of climate action with SNDL active and sustainable through virtual biome that gets cleaner and cleaner proportional to your climate activity. 
 <img width="731" height="397" alt="Screenshot 2026-07-14 at 1 17 51 AM" src="https://github.com/user-attachments/assets/08aa88d5-6015-4747-842e-09ed2d4bc0c9" />
 
-Currently, I am building feature where ELF enables user to control SNDL and will continuosly update this project. 
+Currently, I am building feature where ELF enables user to control SNDL and will continuosly update this project. Check out ELF Copy Folder in github to see all my softwares
 
 # The technical explanation & Guide for hardware robot SNDL
 
